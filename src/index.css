@@ -1,0 +1,29 @@
+.HeaderColor{
+  color:goldenrod;
+  font-family:sans-serif;
+  font-weight: bolder;
+}
+input{
+  border-radius: 10px;
+  height:50px;
+  width: 200px;
+  text-align: center;
+  color:gold;
+}
+
+button{
+  background-color:gold;
+  color: white;
+  padding: 10px;
+  width: 20vh;
+  border-radius: 10px;
+  font-weight: bolder;
+  margin: 0em 3em 1em 3em;
+}
+.card{
+  background-color: goldenrod;
+  color: white;
+}
+.dropdown-menu{
+  cursor: pointer;
+}
